@@ -1,0 +1,1 @@
+import dynamodb from 'aws-sdk/clients/dynamodb';
